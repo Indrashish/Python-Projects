@@ -6,7 +6,6 @@
 
 import random
 
-# We are assuming the threshold to determine the
 class GuessNumber:
     def generate(self):
         return random.randint(-10000, 10000)
